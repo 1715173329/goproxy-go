@@ -27,7 +27,7 @@ import (
 
 const (
 	Version  = "r101"
-	Password = "CHINASZTL-FREEGAE-APPIDS"
+	Password = "@ctcgfw_free"
 
 	DefaultFetchMaxSize        = 1024 * 1024 * 4
 	DefaultDeadline            = 20 * time.Second
